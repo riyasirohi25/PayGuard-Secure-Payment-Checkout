@@ -1,4 +1,4 @@
-# Secure Checkout System
+# PayGuard - Secure Checkout System
 
 This project is a frontend-only Secure Checkout system that demonstrates client-side validation of Visa card payments. It is intended for educational and demonstration purposes and does not process real transactions.
 
