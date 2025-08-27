@@ -40,8 +40,6 @@ checkout-project/
 ├── style.css # Styling for the form
 └── script.js # Card validation and logic
 
-yaml
-Copy code
 
 ---
 
